@@ -1,3 +1,4 @@
+![Alt Text](softrank-ezgif.com-crop.gif)
 # SoftRank4Deforestation
 
 > **Learning to Rank in 2D: Differentiable Spatial Prioritization for Deforestation Forecast**
