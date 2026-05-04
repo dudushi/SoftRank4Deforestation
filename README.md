@@ -21,7 +21,7 @@ Everything below uses the **paper-default hyperparameters** (Optuna optima repor
 - [1. Quick start](#1-quick-start)
 - [2. What's in the box](#2-whats-in-the-box)
 - [3. Reproducing Table I](#3-reproducing-table-i)
-- [4. The losses, in plain English](#4-the-losses-in-plain-english)
+- [4. The losses](#4-the-losses-in-plain-english)
 - [5. Using SoftRank in your own project](#5-using-softrank-in-your-own-project)
 - [6. Citation](#6-citation)
 
