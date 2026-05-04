@@ -129,7 +129,7 @@ Mean over 6 seeds, evaluated on 2025 (held out). Reproduced from the paper's Tab
 
 ---
 
-## 4. The losses, in plain English
+## 4. The losses
 
 Five losses are evaluated. All share the call signature `loss(pred, target, biome, …)` and operate on the *inner* tensor (boundary cells stripped — see §VI-A of the paper).
 
